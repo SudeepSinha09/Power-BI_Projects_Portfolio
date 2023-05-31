@@ -1,6 +1,6 @@
 # Power BI Projects Portfolio
 
-This repository consists of six Power BI projects, and each of their reports is attached to the files.
+This repository consists of **6 Power BI projects**, and each of their reports is attached to the files.
 
 **The 6 Projects are:**
 
