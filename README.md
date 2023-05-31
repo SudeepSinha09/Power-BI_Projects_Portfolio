@@ -4,6 +4,7 @@ This repository consists of **6 Power BI projects**, and each of their reports i
 
 **The 6 Projects are:**
 
+**Tutorial** - Global Terrorism Analysis
 **Project - 1** - Covid-19 Analysis Project  
 **Project - 2** - Olympics Dataset Analysis Project  
 **Project - 3** - Email Marketing Dataset Analysis Project  
